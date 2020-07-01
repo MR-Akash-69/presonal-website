@@ -7,6 +7,7 @@ margin: 0px;
     background-image: url(pictures/header-bg.png);
   width: 100%;
 
+  
 
 }
 .bio{
@@ -58,9 +59,11 @@ section{
     text-align: center;
 }
 .third-width{
-    width: 30%;
+    height: 25%;
+    width: 25%;
     float: left;
-    padding: 1%;
+    margin-left: 6%;
+    
     
     
 }
@@ -104,6 +107,6 @@ p{
     font-size: 50;
 }
 footer p{
-    font-size: 10;
+    font: size 10;
     text-align: center;
 }
